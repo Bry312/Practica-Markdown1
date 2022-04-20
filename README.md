@@ -36,6 +36,6 @@ Lista no enumeada
 
 - Primer Elemento 
 
-   *Primer elemento
-   *Segundo elemento
+   * Primer elemento
+   * Segundo elemento
 - Segundo Elemento
